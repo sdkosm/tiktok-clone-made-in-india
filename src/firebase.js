@@ -2,7 +2,7 @@
 import firebase from "./firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAfk8ESpX3Uy0qDUBL81agCLH66WKjywCA",
+    apiKey: "AIzaSyAfk8ESpX3Uy0",
     authDomain: "tiktok-ccff5.firebaseapp.com",
     databaseURL: "https://tiktok-ccff5-default-rtdb.firebaseio.com",
     projectId: "tiktok-ccff5",
